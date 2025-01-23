@@ -5,4 +5,10 @@
 print("Fashion has always been here across time")
 ```
 ### What is style?
+There are a few things to consider to get your style. This includes:
+- [ ] Height
+- [ ] Body type
+- [ ] Weight
+- [ ] Skin color
+- [ ] Occassion
 Just made a few changes? what do you think?
